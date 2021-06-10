@@ -1,0 +1,48 @@
+_repo: La-fin-de-l-art_65403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - Coffe, M.
+    - Drexelius, J.
+    - Le Danois, N.
+    - Gourmont, Remi de
+    - Gourmont, Remye
+    - L'Ymagier
+    - De Gourmont, Remy
+    - Gourmont, Rémy de
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Remy_de_Gourmont
+    - https://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+description: ''
+gutenberg_issued: '2021-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65403'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French essays'
+- GITenberg
+tableOfContents: La fin de l'art -- Un monument -- Les statues -- L'obélisque -- L'architecture
+  -- La pipe -- Transmutation -- Cinéma -- Les momies -- La peinture -- Visages --
+  Sur un portrait -- L'exotisme -- Les débuts -- Le latin -- Latinerie -- La langue
+  française -- Les noms étrangers -- Barbarismes -- Les deux langages -- Le style
+  professionnel -- La médiocrité -- Lectures de voyage -- Les livres anciens -- Un
+  roman -- L'encre -- Sur une phrase -- Gassendi -- Diderot -- Louis Veuillot -- Bons
+  conseils -- Stendhal et Casanova -- Un chroniqueur -- Le survivant -- Correspondances
+  -- Universités -- Indulgence -- L'épée -- Historiettes -- Histoires de médecins
+  -- Une découverte -- Tuberculose -- Grève du pain -- Le pain blanc -- Vivisection
+  -- Les guérisseurs -- Le régime -- Le vin -- Le rhume -- Le sursis -- Sur la logique
+  -- Christophe Colomb -- Provinces -- Le Limousin -- La Savoie -- Voyage en France
+  -- Le touriste -- Le feuillage au theatre -- Le nôtre.
+title: La fin de l'art
+url: http://www.gutenberg.org/ebooks/65403
